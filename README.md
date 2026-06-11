@@ -31,9 +31,8 @@ Use any of these on the login screen. The password can be anything.
 
 | Email | Role |
 |---|---|
-| organizer@alu.edu | Event Organizer |
-| clubleader@alu.edu | Club Leader |
-| staff@alu.edu | Academic Staff |
+| kwame@alu.edu | Club Leader |
+| nkosi@alu.edu | Event Organizer |
 | aline@alustudent.com | Student |
 
 You can also register a new account and choose your role from the dropdown.
