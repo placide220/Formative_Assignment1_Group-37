@@ -1,4 +1,4 @@
-package com.example.alu_connect
+package com.alu.alu_connect
 
 import io.flutter.embedding.android.FlutterActivity
 
